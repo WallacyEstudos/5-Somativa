@@ -95,4 +95,8 @@ Para implementar a solução proposta, as seguintes tecnologias e ferramentas se
 
 ---
 
-Essa solução visa transformar a gestão do setor de contraprovas, garantindo maior organização, segurança e eficiência no controle das amostras e dados relacionados, atendendo às necessidades de rastreabilidade e conformidade com regulamentos.
+##### **PROTOTIPOS**
+
+![Descrição da Imagem](./images/nome-da-imagem.png)
+
+![Prototipo para PC](./img/PrototipoLaptop.png)
