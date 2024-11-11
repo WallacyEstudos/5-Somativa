@@ -101,6 +101,12 @@ Para implementar a solução proposta, as seguintes tecnologias e ferramentas se
 
 ##### **PROTOTIPOS**
 
+#### *PROTOTIPO PARA CELULAR*
+
 ![Prototipo para Celular](img/PrototipoSmartphone.jpg)
 
-![Prototipo para PC](img/PrototipoLaptop.PNG)
+#### *PROTOTIPO PARA PC*
+
+![Prototipo para PC](img/Prototipopc1.PNG)
+
+![Prototipo para PC](img/Prototipopc2.PNG)
