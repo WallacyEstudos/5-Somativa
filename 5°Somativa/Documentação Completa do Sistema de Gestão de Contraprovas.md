@@ -27,7 +27,7 @@ O setor de contraprovas desempenha um papel crucial no controle de qualidade de 
 
 ---
 
-![Foto ContraProva](img/contraprova4.jpeg)
+![Foto ContraProva](img/contraprova5.jpeg)
 
 ---
 
