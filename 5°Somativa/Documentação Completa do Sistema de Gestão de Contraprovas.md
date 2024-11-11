@@ -107,6 +107,6 @@ Para implementar a solução proposta, as seguintes tecnologias e ferramentas se
 
 #### *PROTOTIPO PARA PC*
 
-![Prototipo para PC](img/prototipopc1.PNG)
+![Prototipo para PC](img/prototipopc.PNG)
 
-![Prototipo para PC](img/prototipopc2.PNG)
+![Prototipo para PC](img/prototipoPC2.PNG)
