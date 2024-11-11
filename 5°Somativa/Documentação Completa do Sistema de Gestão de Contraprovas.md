@@ -27,6 +27,16 @@ O setor de contraprovas desempenha um papel crucial no controle de qualidade de 
 
 ---
 
+![Foto ContraProva](img/contraprova4.jpeg)
+
+![Foto ContraProva](img/contraprova3.jpeg)
+
+![Foto ContraProva](img/contraprova2.jpeg)
+
+![Foto ContraProva](img/contraprova1.jpeg)
+
+---
+
 #### **2. Proposta de Solução: Sistema Digital de Gestão de Contraprovas**
 
 Para resolver os problemas identificados, propomos a implementação de um sistema digital de gestão de contraprovas, com as seguintes funcionalidades e benefícios:
